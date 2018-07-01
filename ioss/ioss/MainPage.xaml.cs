@@ -12,7 +12,7 @@ namespace ioss
 		public MainPage()
 		{
 			InitializeComponent();
-            //d
+            //d is it
 		}
 	}
 }
